@@ -4,4 +4,4 @@ date: 2023-10-23
 draft: false
 ---
 
-This is Faruq additional post with some extra information in it.
+<span class="text-primary">Faruq's sixth post with some text</span>
